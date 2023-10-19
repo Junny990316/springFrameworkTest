@@ -19,7 +19,7 @@
 			<tr><td>이메일 :</td><td>${book.author}</td></tr>
 			<tr><td>나이 :</td><td>${book.isbn}</td></tr>
 			<tr><td>거주지 :</td><td>${book.genre}</td></tr>
-			<tr><td>가입날짜 :</td><td>${book.createAt}</td></tr>
+			<tr><td>가입날짜 :</td><td>${book.createdAt}</td></tr>
 		</table>
 	</div>
 </body>
